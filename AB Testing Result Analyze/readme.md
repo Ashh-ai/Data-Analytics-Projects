@@ -12,3 +12,9 @@
 * Performed probability computations, hypothesis testing and logistic regression on the data using Pandas, Numpy, and the statsmodels module in Python.
 * Made recommendations backed by statistical inferences for deciding the web page version and documented limitations of the analysis
 
+
+
+A short description about my project.
+
+ Actively maintained and updated regularly.  
+ New improvements and features added frequently.
